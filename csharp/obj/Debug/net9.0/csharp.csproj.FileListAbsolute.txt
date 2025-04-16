@@ -1,0 +1,14 @@
+/home/mirrgl/lab_2/csharp/bin/Debug/net9.0/csharp
+/home/mirrgl/lab_2/csharp/bin/Debug/net9.0/csharp.deps.json
+/home/mirrgl/lab_2/csharp/bin/Debug/net9.0/csharp.runtimeconfig.json
+/home/mirrgl/lab_2/csharp/bin/Debug/net9.0/csharp.dll
+/home/mirrgl/lab_2/csharp/bin/Debug/net9.0/csharp.pdb
+/home/mirrgl/lab_2/csharp/obj/Debug/net9.0/csharp.GeneratedMSBuildEditorConfig.editorconfig
+/home/mirrgl/lab_2/csharp/obj/Debug/net9.0/csharp.AssemblyInfoInputs.cache
+/home/mirrgl/lab_2/csharp/obj/Debug/net9.0/csharp.AssemblyInfo.cs
+/home/mirrgl/lab_2/csharp/obj/Debug/net9.0/csharp.csproj.CoreCompileInputs.cache
+/home/mirrgl/lab_2/csharp/obj/Debug/net9.0/csharp.dll
+/home/mirrgl/lab_2/csharp/obj/Debug/net9.0/refint/csharp.dll
+/home/mirrgl/lab_2/csharp/obj/Debug/net9.0/csharp.pdb
+/home/mirrgl/lab_2/csharp/obj/Debug/net9.0/csharp.genruntimeconfig.cache
+/home/mirrgl/lab_2/csharp/obj/Debug/net9.0/ref/csharp.dll
